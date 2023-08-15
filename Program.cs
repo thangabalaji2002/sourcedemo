@@ -15,7 +15,8 @@ namespace ConsoleApp2
 
         int a;
         int b;
-       
+        int c;
+        string d;
 
         static void Main(string[] args)
         {
